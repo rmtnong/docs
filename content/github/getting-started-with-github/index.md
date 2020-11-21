@@ -30,7 +30,7 @@ versions:
 <!-- if currentVersion == "free-pro-team@latest" -->
     {% link_in_list /githubs-products %}
     {% link_in_list /exploring-early-access-releases-with-feature-preview %}
-<!-- endif -->
+<!-- endif -->.
     {% link_in_list /types-of-github-accounts %}
 <!-- if currentVersion == "free-pro-team@latest" -->
     {% link_in_list /faq-about-changes-to-githubs-plans %}
